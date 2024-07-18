@@ -1,0 +1,14 @@
+D:\DOCUMENTOS\DEV\C#\FilesCodificationConverter\bin\Debug\net6.0\FilesCodificationConverter.exe
+D:\DOCUMENTOS\DEV\C#\FilesCodificationConverter\bin\Debug\net6.0\FilesCodificationConverter.deps.json
+D:\DOCUMENTOS\DEV\C#\FilesCodificationConverter\bin\Debug\net6.0\FilesCodificationConverter.runtimeconfig.json
+D:\DOCUMENTOS\DEV\C#\FilesCodificationConverter\bin\Debug\net6.0\FilesCodificationConverter.dll
+D:\DOCUMENTOS\DEV\C#\FilesCodificationConverter\bin\Debug\net6.0\FilesCodificationConverter.pdb
+D:\DOCUMENTOS\DEV\C#\FilesCodificationConverter\obj\Debug\net6.0\FilesCodificationConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCUMENTOS\DEV\C#\FilesCodificationConverter\obj\Debug\net6.0\FilesCodificationConverter.AssemblyInfoInputs.cache
+D:\DOCUMENTOS\DEV\C#\FilesCodificationConverter\obj\Debug\net6.0\FilesCodificationConverter.AssemblyInfo.cs
+D:\DOCUMENTOS\DEV\C#\FilesCodificationConverter\obj\Debug\net6.0\FilesCodificationConverter.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS\DEV\C#\FilesCodificationConverter\obj\Debug\net6.0\FilesCodificationConverter.dll
+D:\DOCUMENTOS\DEV\C#\FilesCodificationConverter\obj\Debug\net6.0\refint\FilesCodificationConverter.dll
+D:\DOCUMENTOS\DEV\C#\FilesCodificationConverter\obj\Debug\net6.0\FilesCodificationConverter.pdb
+D:\DOCUMENTOS\DEV\C#\FilesCodificationConverter\obj\Debug\net6.0\FilesCodificationConverter.genruntimeconfig.cache
+D:\DOCUMENTOS\DEV\C#\FilesCodificationConverter\obj\Debug\net6.0\ref\FilesCodificationConverter.dll
