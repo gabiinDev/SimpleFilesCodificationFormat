@@ -1,0 +1,81 @@
+# Archivos y carpetas específicos de Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Archivos de Visual Studio
+*.suo
+*.tmp
+*.tmp_proj
+*_i.c
+*_p.c
+*.ncb
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+ipch/
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+
+# Archivos de ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Archivos de caché de NuGet
+*.nupkg
+# La carpeta packages puede ser ignorada por la restauración de NuGet
+**/[Pp]ackages/*
+# excepto build/, que se usa como un MSBuild target.
+!**/[Pp]ackages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/[Pp]ackages/repositories.config
+
+# Archivos de Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Carpeta de caché/opciones de Visual Studio Code
+.vscode/
+
+# Archivos de Windows Installer
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Archivos de Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Archivos específicos de macOS
+.DS_Store
